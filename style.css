@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+}
+
+
+
+/* navbar */
+li{
+    list-style-type: none;
+    text-decoration: none;
+}
+.navbar{
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+    height: 100%;
+    background-color: #1f1f1f;
+    color: #ffffff;
+    height: 10vh;
+    margin: auto;
+    padding: 0 5%;
+    
+    height: 10vh;
+}
+
+.logo{
+    height: 5vh
+}
+
+.line{
+    border-right: 2px solid #ffffff;
+    height: 8vh;
+    padding: 0 0 0 3vw;
+    /* margin-right: 60vw; */
+    /* align-self: flex-start; */
+}
+
+
+
+.grow-list .list{
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 50vw;
+    margin-left: 10px;
+}
+
+.button-small{
+    background-color: rgb(191,7,193);
+    margin-left: 16vw;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* hero section */
+.hero{
+    background-image: url(assets/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    height: 90vh;
+
+ 
+}
+.hero-heading{
+    font-size: 70px;
+    text-align: center;
+    color: #ffffff;
+    /* background-color: red; */
+       width: 60%;
+}
+.hero-description{
+    display: block;
+    color: #ffffff;
+    margin-top: 10px;
+    font-size: 25px;
+   opacity: 0.8;
+    /* background-color: red; */
+    width: 100vw;
+    text-align: center;
+}
+.button-large{
+    padding: 15px;
+    background-color: rgb(191,7,193);
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
