@@ -2,7 +2,7 @@
 
 ## Project Name: Crypto Landing Page
 
-# What I have learnt in this project ?
+## What I have learnt in this project ?
   - Classes
   - PseudoSelectors
   - Selectors
@@ -17,7 +17,7 @@ Here is the live link
 
 
 
-
+![image](assets/project-5.png)
 
 
 ![](https://img.shields.io/badge/HTML5-CSS3-orange)
